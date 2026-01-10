@@ -1,13 +1,14 @@
 # @portal-solutions/core-guard
 
 ## Description
-Project core-guard
+Public interface/configuration for "Core Guard", likely involving security keys or verification.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Manage public verification keys
+- [ ] Define security policies
 
 ## Progress
-- [ ] Initial setup
+- [ ] Initial package setup with key placeholders
 
 ---
 *AI assisted*
